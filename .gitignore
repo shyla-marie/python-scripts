@@ -160,3 +160,54 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+# -----------------------------
+
+# OTHER
+
+# -----------------------------
+
+# GenAI Synthetic Survery Data Files (EDSL)
+# .DS_Store files
+.DS_Store
+GenAI-Synthetic-Survey-Data/.DS_Store
+# edsl_cache_shit.db file
+edsl_cache_shit.db
+GenAI-Synthetic-Survey-Data/edsl_cache_shit.db
+# interview.log file
+interview.log
+GenAI-Synthetic-Survey-Data/interview.log
+
+# -----------------------------
+
+# Markdown Files
+GenAI-Synthetic-Survey-Data/Markdown/
+# Abstract Markdown File
+Abstract.md
+Markdown/Abstract.md
+GenAI-Synthetic-Survey-Data/Markdown/Abstract.md
+# Acknowledgements Markdown File
+Acknowledgments.md
+Markdown/Acknowledgments.md
+GenAI-Synthetic-Survey-Data/Markdown/Acknowledgments.md
+# Introduction Markdown File
+Introduction.md
+Markdown/Introduction.md
+GenAI-Synthetic-Survey-Data/Markdown/Introduction.md
+# Literature Review Markdown File
+LitReview.md
+Markdown/LitReview.md
+GenAI-Synthetic-Survey-Data/Markdown/LitReview.md
+# Citations Markdown File
+Citations.md
+Markdown/Citations.md
+GenAI-Synthetic-Survey-Data/Markdown/Citations.md
+# Research Methods and Experimental Design Markdown File
+ResearchMethods_and_ExperimentalDesign.md
+Markdown/ResearchMethods_and_ExperimentalDesign.md
+GenAI-Synthetic-Survey-Data/Markdown/ResearchMethods_and_ExperimentalDesign.md
+# Information Shock Markdown File
+InformationShock.md
+Markdown/InformationShock.md
+GenAI-Synthetic-Survey-Data/Markdown/InformationShock.md
